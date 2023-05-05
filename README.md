@@ -1,0 +1,5 @@
+# Sentiment analysis with data from Twitter using the keyword “UCM”
+
+
+The technique of figuring out the underlying feelings or sentiment of a text is known as sentiment analysis.  It can convert the data into something a computer can understand using data science and NLP. when the reviews are in a format that can be read by computersThe steps listed below can be used for sentiment analysis with the Twitter API:
+I've conducted sentiment analysis in this instance on 20 tweets that contained the keyword "UCM." This was accomplished by classifying them using a machine learning model as either good, neutral, or negative. The analysis's findings are as follows: Here are the total number of tweets: 3 is a positive number, 4 is a negative number, and 13 is a neutral number. By looking at the analysis using the keyword "UCM," it was discovered that the majority of tweets are neutral, and there are fewer negative tweets. This indicates that tweets with the keyword "UCM" included both positive and neutral sentiments. It's important to note that this is only a broad perspective.
